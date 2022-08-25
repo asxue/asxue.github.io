@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Math & Computer Science, Duke University, 2016-2020
+* Ph.D in Bioinformatics, UCLA, 2020-
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Broad Summer Research Program student
+  * Broad Institute of Harvard and MIT
+  * Cambridge, MA
+  * Applied feature extraction and data embedding techniques to visualize and interpret CRISPR screen data
+  * Supervisor: Joshua Dempster
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2018: ACRES REU student
+  * Michigan State University
+  * Lansing, MI
+  * Applied transfer and deep learning techniques to predicted long-range enhancer-promoter interactions
+  * Supervisor: Jianrong Wang
+
+* Summer 2017: Research Intern
+  * Oak Ridge National Laboratory
+  * Applied deep learning and built generative adversarial networks in Pytorch to emulate sparse scientific data
 
 Publications
 ======
@@ -54,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
