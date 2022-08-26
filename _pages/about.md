@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Albert Xue, a PhD student at UCLA jointly advised by [Harold Pimentel](pimentellab.com) and [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/). I'm currently interested in building computational methods that ask questions about causality in functional genomics.
+Hi! I'm Albert Xue, a PhD student at UCLA jointly advised by [Harold Pimentel](https://pimentellab.com/) and [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/). I'm currently interested in building computational methods that ask questions about causality in functional genomics.
