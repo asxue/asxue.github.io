@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "light"
+site_theme               : "default"
 title                    : "Albert Xue"
 title_separator          : "-"
 name                     : &name "Albert Xue"
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "albertsxue"
+  # twitter          : "albertsxue"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
