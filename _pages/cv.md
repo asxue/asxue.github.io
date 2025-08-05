@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatics, UCLA, 2026 (expected)
+* B.S. in Math, Computer Science, Duke University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2019: Summer Intern, Broad Institute Summer Research Program (BSRP)
+  * Broad Institute - Cancer Data Science
+  * Applied feature extraction and data embedding techniques to CRISPR screen dependency data.
+  * Supervisor: Dr. Joshua Dempster
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Summer Intern, ACRES REU
+  * Michigan State University
+  * Applied transfer and deep learning techniques to genomic data to predict long-range enhancer-promoter interactions through protein-protein interactions.
+  * Supervisor: Professor Jianrong Wang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2017: Summer Intern, Oak Ridge National Laboratory
+  * Oak Ridge National Laboratory
+  * Applied deep learning and Generative Adversarial Networks to sparse neutrino image data for sparse database expansion and anomaly detection.
+  * Supervisor: Dr. Steven Young
 
 Publications
 ======
@@ -52,6 +42,12 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Posters
+======
+  <ul>{% for post in site.posters reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +55,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Selected Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Interdisciplinary Contest in Modeling (ICM) - Outstanding Winner (2019)
+* ICM Leonhard Euler Award (2019)
+* International COMAP Scholarship Award (2019)
+* Duke Karl Menger Award (2019)
+
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
